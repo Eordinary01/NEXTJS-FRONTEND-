@@ -1,0 +1,54 @@
+{
+
+    
+    "courses":[
+        {
+            "title": "Introduction to Guitar",
+        "description": "Learn the basics of playing guitar, including chords, strumming, and fingerpicking.",
+      "price": 49.99,
+      "image": "https://example.com/images/guitar_course.jpg"
+    },
+{
+    "title": "Advanced Piano Techniques",
+      "description": "Master advanced piano techniques, including arpeggios, scales, and complex compositions.",
+      "price": 99.99,
+      "image": "https://example.com/images/piano_course.jpg"
+    },
+{
+    "title": "Drumming for Beginners",
+      "description": "Start your drumming journey with this beginner course covering rhythms, beats, and basic drum kit setup.",
+    "price": 59.99,
+      "image": "https://example.com/images/drumming_course.jpg"
+    },
+    {
+        "title": "Vocal Training 101",
+    "description": "Improve your singing voice with techniques for breath control, pitch, and vocal range expansion.",
+"price": 79.99,
+"image": "https://example.com/images/vocal_training.jpg"
+},
+{
+    "title": "Music Theory Basics",
+"description": "Understand the fundamentals of music theory, including notation, harmony, and melody.",
+"price": 39.99,
+      "image": "https://example.com/images/music_theory.jpg"
+    },
+{
+    "title": "Jazz Improvisation",
+"description": "Learn to improvise in the jazz style, covering scales, chord progressions, and soloing techniques.",
+"price": 89.99,
+"image": "https://example.com/images/jazz_improvisation.jpg"
+},
+{
+    "title": "Electronic Music Production",
+"description": "Create electronic music with this course on DAWs, synths, and beat-making.",
+"price": 129.99,
+"image": "https://example.com/images/electronic_music.jpg"
+},
+    {
+        "title": "Classical Violin",
+    "description": "Master the classical violin repertoire, techniques, and performance practices.",
+      "price": 149.99,
+    "image": "https://example.com/images/classical_violin.jpg"
+}
+  ]
+  }
